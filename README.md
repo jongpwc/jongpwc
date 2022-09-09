@@ -2,7 +2,7 @@ Hello, World
 
 I'm an acoustic engineer, specialized in
 - testing and analyzing noise,
-- developing software for signal processing and process automation, primarily targeted for my workplace.
+- developing software for signal processing and process automation.
 
 I'm currently enjoying implementing my expertise and ideas in both hardware and software. 
 
